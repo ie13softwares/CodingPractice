@@ -17,7 +17,7 @@ import java.lang.*;
 import java.io.*;
  
 /* Name of the class has to be "Main" only if the class is public. */
-class Ideone
+class Anagrams
 {
 	public static void main (String[] args) throws IOException
 	{
@@ -25,9 +25,7 @@ class Ideone
 		String line = br.readLine();
 		int T = Integer.parseInt(line);
  
-		//System.out.println("Reached Here");
- 
-		while(T > 0){
+ 		while(T > 0){
 			T--;
 			String s1 = br.readLine().trim();
 			String s2 = br.readLine().trim();
