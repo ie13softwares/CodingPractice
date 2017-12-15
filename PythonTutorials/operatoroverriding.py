@@ -1,6 +1,6 @@
 '''
 Python lets us overload operators such as + , - and others for various purposes.
-This basic demo shows the overloading of +. * and print so that, the attributes of an object can be printed.
+This basic demo shows the overloading of +. * and str so that, the attributes of an object can be printed.
 To overload an operator, you would require to redefine their corresponding methods. The list is given below:
  ---------------------------------------------------------------------------
  Operators       Method                        Description                 
