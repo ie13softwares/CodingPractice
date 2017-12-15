@@ -15,4 +15,8 @@ Hacker Rank Questions and Solutions
 Tutorials
 ----------------------------------------------------
 <a href="https://github.com/krishnaclouds/CodingPractice/tree/master/PythonTutorials">Python Tutorials</a>
-    1. <a href="https://github.com/krishnaclouds/CodingPractice/blob/master/PythonTutorials/operatoroverriding.py">Operator Overloading</a>
+<ol>
+    <li>
+        <a href="https://github.com/krishnaclouds/CodingPractice/blob/master/PythonTutorials/operatoroverriding.py">Operator            Overloading</a>
+    </li>
+</ol>
