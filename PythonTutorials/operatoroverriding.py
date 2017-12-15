@@ -3,23 +3,23 @@ Python lets us overload operators such as + , - and others for various purposes.
 This basic demo shows the overloading of +. * and print so that, the attributes of an object can be printed.
 To overload an operator, you would require to redefine their corresponding methods. The list is given below:
  ---------------------------------------------------------------------------
-| Operators  |     Method                    |  Description                 |
+| Operators |     Method                  |  Description                 |
  ---------------------------------------------------------------------------
 |   + 	     |   __add__(self, other) 	     |   Addition                   |
 |   * 	     |   __mul__(self, other) 	     |   Multiplication             |
 |   - 	     |   __sub__(self, other) 	     |   Subtraction                |
 |   % 	     |   __mod__(self, other) 	     |   Remainder                  |
 |   / 	     |   __truediv__(self, other) 	 |   Division                   |
-|   < 	     |   __lt__(self, other) 	     |   Less than                  |
-|   <= 	     |   __le__(self, other) 	     |   Less than or equal to      |
-|   == 	     |   __eq__(self, other) 	     |   Equal to                   |
-|   != 	     |   __ne__(self, other) 	     |   Not equal to               |
-|   > 	     |   __gt__(self, other) 	     |   Greater than               |
-|   >= 	     |   __ge__(self, other) 	     |   Greater than or equal to   |
-|   [index]  |	__getitem__(self, index) 	 |   Index operator             |
-|   in 	     |   __contains__(self, value) 	 |   Check membership           |
-|   len 	 |   __len__(self) 	             |   The number of elements     |
-|   str 	 |   __str__(self) 	             |   The string representation  |
+|   < 	     |   __lt__(self, other) 	      |   Less than                  |
+|   <= 	    |   __le__(self, other) 	      |   Less than or equal to      |
+|   == 	    |   __eq__(self, other) 	      |   Equal to                   |
+|   != 	    |   __ne__(self, other) 	      |   Not equal to               |
+|   > 	     |   __gt__(self, other) 	      |   Greater than               |
+|   >= 	    |   __ge__(self, other) 	      |   Greater than or equal to   |
+|   [index] |	__getitem__(self, index) 	   |   Index operator             |
+|   in 	    |   __contains__(self, value) 	|   Check membership           |
+|   len 	   |   __len__(self) 	            |   The number of elements     |
+|   str 	   |   __str__(self) 	            |   The string representation  |
 ----------------------------------------------------------------------------
 '''
 
