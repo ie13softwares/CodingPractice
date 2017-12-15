@@ -11,8 +11,8 @@ To overload an operator, you would require to redefine their corresponding metho
    % 	        __mod__(self, other)          Remainder
    / 	        __truediv__(self, other)      Division
    < 	        __lt__(self, other)           Less than
-   <= 	       __le__(self, other)           Less than or equal to
-   == 	       __eq__(self, other)           Equal to
+   <= 	       __le__(self, other)            Less than or equal to
+   == 	       __eq__(self, other)            Equal to
    != 	       __ne__(self, other)           Not equal to
    > 	        __gt__(self, other)           Greater than
    >= 	       __ge__(self, other)           Greater than or equal to
