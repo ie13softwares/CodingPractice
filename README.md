@@ -17,6 +17,6 @@ Tutorials
 <a href="https://github.com/krishnaclouds/CodingPractice/tree/master/PythonTutorials">Python Tutorials</a>
 <ol>
     <li>
-        <a href="https://github.com/krishnaclouds/CodingPractice/blob/master/PythonTutorials/operatoroverriding.py">Operator            Overloading</a>
+        <a href="https://github.com/krishnaclouds/CodingPractice/blob/master/PythonTutorials/operatorOverloading.py">Operator            Overloading</a>
     </li>
 </ol>

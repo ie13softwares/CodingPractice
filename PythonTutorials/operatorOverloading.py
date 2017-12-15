@@ -23,7 +23,7 @@ To overload an operator, you would require to redefine their corresponding metho
 ----------------------------------------------------------------------------
 '''
 
-# Run this file by calling <python operatoroverriding.py> from you terminal
+# Run this file by calling <python operatorOverloading.py> from you terminal
 
 
 class DemoClass:
