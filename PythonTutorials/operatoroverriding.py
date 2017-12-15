@@ -13,13 +13,13 @@ To overload an operator, you would require to redefine their corresponding metho
    < 	        __lt__(self, other)           Less than
    <= 	       __le__(self, other)            Less than or equal to
    == 	       __eq__(self, other)            Equal to
-   != 	       __ne__(self, other)           Not equal to
+   != 	       __ne__(self, other)            Not equal to
    > 	        __gt__(self, other)           Greater than
-   >= 	       __ge__(self, other)           Greater than or equal to
-   [index] 	__getitem__(self, index)        Index operator
-   in 	       __contains__(self, value)     Check membership
-   len 	      __len__(self)                 The number of elements
-   str 	      __str__(self)                 The string representation  
+   >= 	       __ge__(self, other)            Greater than or equal to
+   [index] 	__getitem__(self, index)      Index operator
+   in 	       __contains__(self, value)      Check membership
+   len 	      __len__(self)                   The number of elements
+   str 	      __str__(self)                   The string representation  
 ----------------------------------------------------------------------------
 '''
 
