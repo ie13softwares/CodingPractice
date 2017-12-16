@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/krishnaclouds/CodingPractice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bharatsharma94@bitbucket.org/rhlbhatnagar/cubicalcoreweb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects/Cubical" />
   </component>
 </application>
